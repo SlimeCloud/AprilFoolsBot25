@@ -4,7 +4,7 @@
 # 👋 April Scherz 2025 Bot
 
 Diese Repository enthält den Quellcode des Bots vom **April Events 2025** auf dem [SlimeCloud Discord Server](https://discord.gg/slimecloud).
-In `run_tempalte` findet ihr zudem die verwendete Konfiguration während des Events.
+In `run_template` findet ihr zudem die verwendete Konfiguration während des Events.
 
 Wenn du Fragen hast oder dich mit anderen Entwicklern austauschen möchtest, kannst du gerne in
 der [#👾│tüftlerecke](https://discord.com/channels/1077255218728796192/1098707158750724186) auf
