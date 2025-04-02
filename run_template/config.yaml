@@ -1,0 +1,38 @@
+sentence: "Von MiniKings Zipfelmütze bis zur Sintflut ist unsere schleimige Wolke anlässlich dieses außergewöhnlichen Tages für jeden Jux zu haben"
+revealMessage: "Herzlichen Glückwunsch <emoji:slimeemparty>, du hast das Rätsel gelöst! Als Belohnung hast du die <@&1353939537377755166> Rolle bekommen."
+role: 1353939537377755166
+
+hints:
+  - trigger: "keyword:<@723571803133313055>"
+    hint: >-
+      Advent, Advent, ..., ach ne das ist schon ne Weile her. Trotzdem geht ein Wort umher! Es tönt von fern und nah (und in jedem Sprachchat):
+      sein neuer Hut steht ihm wirklich prächtig, er hat sich einen wahrhaft guten look ausgesucht. Seine Mode ist echt Spitze, wie auch seine Kopfbedeckung!
+
+  - trigger: "^[Kk].+"
+    hint: >-
+      Unsere Nachfolge auf der Erde steht dank einem glücklichen Songbattle Gewinner ja schon lange fest.
+      Da solltet ihr nochmal genau hinhören, solange ihr noch könnt!
+
+  - trigger: "keyword:Slimecloud"
+    hint: >-
+      Unsere Netrunner haben an diesem Wort durchaus gearbeitet. Sie geben für unseren Server immer ihr Bestes, auch wenn sie manchmal fern scheinen mögen. Ob auf Discord oder ingame, die Community hat für sie eine hohe Priorität.
+      Es gibt jedoch ein paar wenige Kontaktstellen, an denen die Community etwas an der Netrunner Welt teilhaben kann. (Wenn es nur einen Download dafür gäbe...)
+
+  - trigger: "keyword:Hinweis"
+    hint: >-
+      Mein neues Auto geht richtig ab! Die 500 PS machen schon was her. Aber zum Starten braucht es immer noch ein bisschen Hilfe, das schafft der Motor nicht von allein.
+      Wenn es einfach einen Anstoß gäbe, ihr wisst schon, des Fahrspaßes wegen! Aufgrund dessen bleib ich heute lieber daheim.
+
+  - trigger: "keyword:Wochenende,Samstag"
+    hint: >-
+      Das am Samstag war wirklich krass. Ein atemberaubendes Ereignis! Solch einem besonderen, sehenswürdigen, sonderbaren, erstaunlichen, sagenhaften Ereignis
+      sollte man wirklich beiwohnen. Sowas sieht man echt nicht zu jeder Zeit, das sollte man sich nicht entgehen lassen!
+
+  - trigger: "keyword:Zeit,gleich"
+    hint: >-
+      In alten Büchern steht geschrieben:
+      "Ich brauche nur ein Viertelstündchen Zeit; Indessen mache dich zur schönen Fahrt bereit"
+      Davor hat der schlaue Fux Mephisto schon damals wahre Worte gesprochen...
+
+minResponseDelay: 10
+maxResponseDelay: 30
